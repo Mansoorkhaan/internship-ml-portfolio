@@ -1,0 +1,18 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+
+# XAI (Task 1)
+shap>=0.44
+
+# Time series (Task 3)
+statsmodels>=0.14
+xgboost>=2.0
+prophet>=1.1  # optional; if unavailable on your OS, document fallback
+
+# Dashboard (Task 5)
+streamlit>=1.34
